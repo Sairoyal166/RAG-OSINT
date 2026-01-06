@@ -19,9 +19,13 @@ The system retrieves semantically relevant cybersecurity content and generates c
 
 ## Project Structure
 RAG-OSINT/
+
 ├── app.py
+
 ├── README.md
+
 ├── requirements.txt
+
 ├── .gitignore
 
 
@@ -34,6 +38,7 @@ Due to size constraints, datasets are not included in this repository.
 https://drive.google.com/drive/folders/18dU6UK2wXOO4qwWixQV88jEzpVjdSTW7?usp=drive_link
 
 After downloading, place the following files in the project root directory:
+
 Compromised_IOCs_Cleaned.csv
 Tweetfeed_cleaned.csv
 
@@ -45,7 +50,7 @@ Tweetfeed_cleaned.csv
 pip install -r requirements.txt
 python app.py
 
-
+```
 Open in browser:
 
 UI: http://127.0.0.1:5000/ui

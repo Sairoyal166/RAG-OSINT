@@ -1,0 +1,9 @@
+pandas
+tqdm
+flask
+transformers
+sentence-transformers
+langchain
+langchain-community
+chromadb
+torch

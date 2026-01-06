@@ -40,6 +40,7 @@ https://drive.google.com/drive/folders/18dU6UK2wXOO4qwWixQV88jEzpVjdSTW7?usp=dri
 After downloading, place the following files in the project root directory:
 
 Compromised_IOCs_Cleaned.csv
+
 Tweetfeed_cleaned.csv
 
 
@@ -54,8 +55,10 @@ python app.py
 Open in browser:
 
 UI: http://127.0.0.1:5000/ui
+
 API: http://127.0.0.1:5000/
 
 
 Author
+
 Venkata Sai Thiruvakadu

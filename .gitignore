@@ -1,0 +1,45 @@
+# =========================
+# Python virtual environments
+# =========================
+venv/
+ragenv/
+
+# =========================
+# Environment variables
+# =========================
+.env
+
+# =========================
+# Jupyter Notebook
+# =========================
+.ipynb_checkpoints/
+
+# =========================
+# Python cache
+# =========================
+__pycache__/
+*.pyc
+
+# =========================
+# Vector database (ChromaDB)
+# =========================
+rag_db/
+*.sqlite3
+
+# =========================
+# HuggingFace / Transformers cache
+# =========================
+.cache/
+huggingface/
+
+# =========================
+# OS generated files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Large compiled binaries
+# =========================
+*.dll
+*.pyd
